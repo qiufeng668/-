@@ -1,30 +1,26 @@
 央视频道,#genre#
 CCTV1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com  
 CCTV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+低码
 CCTV1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001018/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 CCTV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+低码
 CCTV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001021/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001840/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CCTV3,http://211.137.115.109:80/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV3,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://111.20.33.70/PLTV/88888893/224/3221226397/index.m3u8 
 CCTV3,http://111.20.105.60:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CCTV4,http://211.137.115.109:80/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8 
-CCTV4,http://211.137.115.109:80/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8 
-CCTV4,http://211.137.115.109:80/gitv_live/CCTV-4/CCTV-4.m3u8
-CCTV4,http://111.20.33.70/PLTV/88888893/224/3221226191/index.m3u8
-CCTV4,http://111.20.33.70/PLTV/88888893/224/3221226223/index.m3u8
+
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
-CCTV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001015/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 CCTV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
-CCTV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+低码
+CCTV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001015/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 
 CCTV5,http://211.137.115.109:80/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
 CCTV5,http://111.20.33.70/PLTV/88888893/224/3221226395/index.m3u8 
